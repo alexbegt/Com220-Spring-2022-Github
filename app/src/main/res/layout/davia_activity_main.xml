@@ -15,7 +15,6 @@
         android:contentDescription="@string/scwa_logo"
         app:srcCompat="@drawable/davia_image"
         tools:srcCompat="@drawable/davia_image" />
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
