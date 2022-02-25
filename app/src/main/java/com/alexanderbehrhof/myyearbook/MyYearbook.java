@@ -116,7 +116,7 @@ public class MyYearbook extends Application {
 
         NotificationManagerCompat notificationManager = NotificationManagerCompat.from(ctx);
 
-        CountDownTimer timer = new CountDownTimer(millisIn, countDownInterval) {
+        new CountDownTimer(millisIn, countDownInterval) {
             @Override
             public void onTick(long millisUntilFinished) {
                 // App is ticking down

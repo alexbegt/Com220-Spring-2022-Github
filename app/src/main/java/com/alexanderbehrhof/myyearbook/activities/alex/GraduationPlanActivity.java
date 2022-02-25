@@ -26,7 +26,7 @@ public class GraduationPlanActivity extends AbstractActivity {
 
         MyYearbook.pauseActivity();
 
-        // Sends an activity that returns to Alex's Main Activity.
+        // Sends a push notification that returns the user to Alex's Main Activity.
         MyYearbook.getInstance().pushNotificationAfterGivenTime(this, MainActivity.class, 30000, 1000);
     }
 }

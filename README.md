@@ -13,4 +13,5 @@ Features implemented by who:
 * Alex implemented the main Dashboard and implemented the notification that appears after the app has been inactive for
   30 seconds (paused in background)
 * Robel implemented his own yearbook image and info, and added a webview under his graduation plan
-* Davia added her own yearbook info/image and implemented the share button for her image
+* Davia added her own yearbook info/image and implemented the share button for her image (shares the image to any app u
+  pick on the share feature)
